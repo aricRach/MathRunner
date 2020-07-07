@@ -33,4 +33,4 @@ In addition, it is important to note that the game can suit all ages as it is ch
 + `S` - Slide
 
 ##
-[Link for game](https://talkabaso.itch.io/Mathrunner)
+[Link for game](https://aricrach.itch.io/mathrunner)
