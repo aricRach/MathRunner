@@ -1,5 +1,8 @@
 
-<img src="https://i.imgur.com/YCZYIT7.png" >
+
+
+[<img src="https://i.imgur.com/YCZYIT7.png" >](https://aricrach.itch.io/mathrunner)
+
 enjoyable game for learning math
 
 
@@ -33,4 +36,4 @@ In addition, it is important to note that the game can suit all ages as it is ch
 + `S` - Slide
 
 ##
-[Link for game](https://aricrach.itch.io/mathrunner)
+[Link for the game](https://aricrach.itch.io/mathrunner)
